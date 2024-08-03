@@ -1,0 +1,11 @@
+aiohttp
+hachoir
+#Pillow
+pyrogram
+requests
+tgcrypto
+python-dotenv
+loggers
+yt-dlp
+youtube_dl
+#Flask==2.3.2
